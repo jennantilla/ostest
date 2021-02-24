@@ -16,5 +16,6 @@
 <body>
     <h1>This is where I test notifications.</h1>
     <h3>Check out my <a href="sudomain.html">subdomain 1</a></h3>
+    <h3>Check out my <a href="sudomain.html">subdomain 2</a></h3>
 </body>
 </html>
